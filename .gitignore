@@ -131,3 +131,6 @@ dist
 
 # production data
 multiplied_files.json
+
+# vscode
+.vscode

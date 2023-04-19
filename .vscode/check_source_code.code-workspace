@@ -1,0 +1,44 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+
+	},
+	"tasks": {
+		"version": "2.0.0",
+		"tasks": [
+			{
+				"label": "build",
+				"command": "npx tsc",
+				"type": "shell",
+				"args": [],
+				"problemMatcher": [
+					"$tsc"
+				],
+				"presentation": {
+					"reveal": "always"
+				},
+				"group": "build"
+			}
+		]
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+			{
+				"name": "Launch",
+				"type": "node",
+				"request": "launch",
+				"program": "${workspaceFolder}/dist/index.js",
+				"outFiles": [
+					"${workspaceFolder}/dist/**/*.js"
+				],
+				"preLaunchTask": "build",
+			}
+		],
+		"compounds": [],
+	},
+}

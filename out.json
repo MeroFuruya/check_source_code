@@ -1,0 +1,824 @@
+[
+  {
+    "name": "assert.d.ts",
+    "files": [
+      {
+        "name": "assert.d.ts",
+        "path": "./node_modules/@types/node/assert.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "assert.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/assert.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "async_hooks.d.ts",
+    "files": [
+      {
+        "name": "async_hooks.d.ts",
+        "path": "./node_modules/@types/node/async_hooks.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "async_hooks.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/async_hooks.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "buffer.d.ts",
+    "files": [
+      {
+        "name": "buffer.d.ts",
+        "path": "./node_modules/@types/node/buffer.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "buffer.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/buffer.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "child_process.d.ts",
+    "files": [
+      {
+        "name": "child_process.d.ts",
+        "path": "./node_modules/@types/node/child_process.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "child_process.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/child_process.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "cluster.d.ts",
+    "files": [
+      {
+        "name": "cluster.d.ts",
+        "path": "./node_modules/@types/node/cluster.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "cluster.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/cluster.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "console.d.ts",
+    "files": [
+      {
+        "name": "console.d.ts",
+        "path": "./node_modules/@types/node/console.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "console.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/console.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "constants.d.ts",
+    "files": [
+      {
+        "name": "constants.d.ts",
+        "path": "./node_modules/@types/node/constants.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "constants.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/constants.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "crypto.d.ts",
+    "files": [
+      {
+        "name": "crypto.d.ts",
+        "path": "./node_modules/@types/node/crypto.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "crypto.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/crypto.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "dgram.d.ts",
+    "files": [
+      {
+        "name": "dgram.d.ts",
+        "path": "./node_modules/@types/node/dgram.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "dgram.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/dgram.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "diagnostics_channel.d.ts",
+    "files": [
+      {
+        "name": "diagnostics_channel.d.ts",
+        "path": "./node_modules/@types/node/diagnostics_channel.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "diagnostics_channel.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/diagnostics_channel.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "dns.d.ts",
+    "files": [
+      {
+        "name": "dns.d.ts",
+        "path": "./node_modules/@types/node/dns.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "dns.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/dns.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "dom-events.d.ts",
+    "files": [
+      {
+        "name": "dom-events.d.ts",
+        "path": "./node_modules/@types/node/dom-events.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "dom-events.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/dom-events.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "domain.d.ts",
+    "files": [
+      {
+        "name": "domain.d.ts",
+        "path": "./node_modules/@types/node/domain.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "domain.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/domain.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "events.d.ts",
+    "files": [
+      {
+        "name": "events.d.ts",
+        "path": "./node_modules/@types/node/events.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "events.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/events.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "fs.d.ts",
+    "files": [
+      {
+        "name": "fs.d.ts",
+        "path": "./node_modules/@types/node/fs.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "fs.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/fs.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "globals.d.ts",
+    "files": [
+      {
+        "name": "globals.d.ts",
+        "path": "./node_modules/@types/node/globals.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "globals.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/globals.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "globals.global.d.ts",
+    "files": [
+      {
+        "name": "globals.global.d.ts",
+        "path": "./node_modules/@types/node/globals.global.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "globals.global.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/globals.global.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "http.d.ts",
+    "files": [
+      {
+        "name": "http.d.ts",
+        "path": "./node_modules/@types/node/http.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "http.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/http.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "http2.d.ts",
+    "files": [
+      {
+        "name": "http2.d.ts",
+        "path": "./node_modules/@types/node/http2.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "http2.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/http2.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "https.d.ts",
+    "files": [
+      {
+        "name": "https.d.ts",
+        "path": "./node_modules/@types/node/https.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "https.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/https.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "index.d.ts",
+    "files": [
+      {
+        "name": "index.d.ts",
+        "path": "./node_modules/@types/node/index.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "index.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/index.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "inspector.d.ts",
+    "files": [
+      {
+        "name": "inspector.d.ts",
+        "path": "./node_modules/@types/node/inspector.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "inspector.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/inspector.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "module.d.ts",
+    "files": [
+      {
+        "name": "module.d.ts",
+        "path": "./node_modules/@types/node/module.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "module.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/module.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "net.d.ts",
+    "files": [
+      {
+        "name": "net.d.ts",
+        "path": "./node_modules/@types/node/net.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "net.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/net.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "os.d.ts",
+    "files": [
+      {
+        "name": "os.d.ts",
+        "path": "./node_modules/@types/node/os.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "os.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/os.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "path.d.ts",
+    "files": [
+      {
+        "name": "path.d.ts",
+        "path": "./node_modules/@types/node/path.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "path.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/path.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "perf_hooks.d.ts",
+    "files": [
+      {
+        "name": "perf_hooks.d.ts",
+        "path": "./node_modules/@types/node/perf_hooks.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "perf_hooks.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/perf_hooks.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "process.d.ts",
+    "files": [
+      {
+        "name": "process.d.ts",
+        "path": "./node_modules/@types/node/process.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "process.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/process.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "punycode.d.ts",
+    "files": [
+      {
+        "name": "punycode.d.ts",
+        "path": "./node_modules/@types/node/punycode.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "punycode.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/punycode.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "querystring.d.ts",
+    "files": [
+      {
+        "name": "querystring.d.ts",
+        "path": "./node_modules/@types/node/querystring.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "querystring.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/querystring.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "readline.d.ts",
+    "files": [
+      {
+        "name": "readline.d.ts",
+        "path": "./node_modules/@types/node/readline.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "readline.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/readline.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "repl.d.ts",
+    "files": [
+      {
+        "name": "repl.d.ts",
+        "path": "./node_modules/@types/node/repl.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "repl.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/repl.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "stream.d.ts",
+    "files": [
+      {
+        "name": "stream.d.ts",
+        "path": "./node_modules/@types/node/stream.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "stream.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/stream.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "string_decoder.d.ts",
+    "files": [
+      {
+        "name": "string_decoder.d.ts",
+        "path": "./node_modules/@types/node/string_decoder.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "string_decoder.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/string_decoder.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "test.d.ts",
+    "files": [
+      {
+        "name": "test.d.ts",
+        "path": "./node_modules/@types/node/test.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "test.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/test.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "timers.d.ts",
+    "files": [
+      {
+        "name": "timers.d.ts",
+        "path": "./node_modules/@types/node/timers.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "timers.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/timers.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "tls.d.ts",
+    "files": [
+      {
+        "name": "tls.d.ts",
+        "path": "./node_modules/@types/node/tls.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "tls.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/tls.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "trace_events.d.ts",
+    "files": [
+      {
+        "name": "trace_events.d.ts",
+        "path": "./node_modules/@types/node/trace_events.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "trace_events.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/trace_events.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "tty.d.ts",
+    "files": [
+      {
+        "name": "tty.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/tty.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "tty.d.ts",
+        "path": "./node_modules/@types/node/tty.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "url.d.ts",
+    "files": [
+      {
+        "name": "url.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/url.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "url.d.ts",
+        "path": "./node_modules/@types/node/url.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "util.d.ts",
+    "files": [
+      {
+        "name": "util.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/util.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "util.d.ts",
+        "path": "./node_modules/@types/node/util.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "v8.d.ts",
+    "files": [
+      {
+        "name": "v8.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/v8.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "v8.d.ts",
+        "path": "./node_modules/@types/node/v8.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "vm.d.ts",
+    "files": [
+      {
+        "name": "vm.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/vm.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "vm.d.ts",
+        "path": "./node_modules/@types/node/vm.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "wasi.d.ts",
+    "files": [
+      {
+        "name": "wasi.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/wasi.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "wasi.d.ts",
+        "path": "./node_modules/@types/node/wasi.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "worker_threads.d.ts",
+    "files": [
+      {
+        "name": "worker_threads.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/worker_threads.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "worker_threads.d.ts",
+        "path": "./node_modules/@types/node/worker_threads.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "zlib.d.ts",
+    "files": [
+      {
+        "name": "zlib.d.ts",
+        "path": "./node_modules/@types/node/ts4.8/zlib.d.ts",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "zlib.d.ts",
+        "path": "./node_modules/@types/node/zlib.d.ts",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "README.md",
+    "files": [
+      {
+        "name": "README.md",
+        "path": "./node_modules/typescript/lib/readme.md",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "README.md",
+        "path": "./node_modules/typescript/readme.md",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  },
+  {
+    "name": "package.json",
+    "files": [
+      {
+        "name": "package.json",
+        "path": "./node_modules/@types/node/package.json",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "package.json",
+        "path": "./node_modules/typescript/package.json",
+        "files": [],
+        "isFile": true
+      },
+      {
+        "name": "package.json",
+        "path": "./package.json",
+        "files": [],
+        "isFile": true
+      }
+    ]
+  }
+]

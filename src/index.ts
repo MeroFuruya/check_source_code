@@ -3,7 +3,7 @@ import { FolderStructure } from './folderStructure';
 
 
 async function main() {
-    const folderStructure = await FolderStructure.getFolderStructure(".", { all_lowercase: true, exclude: ["ThUmbs.db", "out.json"], exclude_case_sensitive: false });
+    const folderStructure = await FolderStructure.getFolderStructure(".", { all_lowercase: true, exclude: ["Thumbs.db", "multiplied_files.json"], exclude_case_sensitive: false });
 
     const res = folderStructure.findDoubleFilesByHash();
     
